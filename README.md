@@ -16,7 +16,7 @@ testins Deployment
 
 ## How to Contribute
 
-Don;t contribute
+Please fork and send for review
 
 ### Copyright
 Copyright notes
