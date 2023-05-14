@@ -17,3 +17,6 @@ testins Deployment
 ## How to Contribute
 
 Don;t contribute
+
+### Copyright
+Copyright notes
