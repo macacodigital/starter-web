@@ -19,4 +19,4 @@ testins Deployment
 Please fork and send for review
 
 ### Copyright
-Copyright notes
+Copyright notes. All rights reserved
